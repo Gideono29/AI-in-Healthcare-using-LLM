@@ -1,5 +1,6 @@
 # AI-in-Healthcare-using-LLM
 # YouTube Link:  https://youtu.be/l1FCJ5zgfpA
+# Dataset : https://huggingface.co/datasets/Shekswess/gemma_medquad_instruct_dataset
 
 This project aims to uncover and develop an intelligent telemedicine and RPM system leveraging LLMs to enhance remote patient engagement, improve healthcare accessibility, and optimize clinical workflows. This research will focus on designing an AI-driven, HIPAA-compliant platform capable of real-time monitoring, intelligent patient communication, and automated clinical documentation to support providers
 
